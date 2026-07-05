@@ -50,7 +50,7 @@ export const ProfileCard: React.FC<ProfileCardProps> = ({
           Hi, I'm <span className="text-white font-normal">{fullName}</span>,
         </p>
         <p className="text-neutral-400 text-sm sm:text-base tracking-wide font-light">
-          Working as <span className="text-white border-b border-white/20 pb-0.5 font-medium">{roles[0]}</span> and <span className="text-white border-b border-white/20 pb-0.5 font-medium">{roles[1]}</span>
+          Working to be an <span className="text-white border-b border-white/20 pb-0.5 font-medium">{roles[0]}</span> and <span className="text-white border-b border-white/20 pb-0.5 font-medium">{roles[1]}</span>
         </p>
       </div>
 

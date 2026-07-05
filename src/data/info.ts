@@ -48,7 +48,7 @@ export const profileInfo: ProfileInformation = {
   location: "Minglanilla, Cebu",
   country: "Philippines",
   avatarUrl: "https://avatars.githubusercontent.com/u/143606848?v=4",
-  email: "nathanaeljedd.delcastillo@gmail.com",
+  email: "nathanaeljeddn.delcastillo@gmail.com",
   githubUrl: "https://github.com/doinath"
 };
 
